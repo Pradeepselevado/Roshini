@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const HTTP_SERVER = express();
 const axios = require('axios');
 const config = require("./Database/Db")
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 const path = require('path');
 
 HTTP_SERVER.use(express.json())

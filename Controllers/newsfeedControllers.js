@@ -1,4 +1,4 @@
-const NewsFeedModel = require('../models/newsfeedModels')
+const NewsFeedModel = require('../Models/newsfeedModels')
 const multer = require('multer')
 const path = require('path')
 

@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const newsfeedController = require('../controllers/newsfeedControllers');
+const newsfeedController = require('../Controllers/newsfeedControllers');
 
 
 router.get('/getall',newsfeedController.getall);

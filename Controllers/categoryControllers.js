@@ -1,4 +1,4 @@
-const CategoryModel = require('../models/categoryModels');
+const CategoryModel = require('../Models/categoryModels');
 const path = require('path');
 const multer = require('multer');
 

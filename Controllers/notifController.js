@@ -1,6 +1,6 @@
 const axios = require('axios');
 const { logErrorToFile } = require('../ErrorLog');
-const NotifModel = require('../models/notifModel')
+const NotifModel = require('../Models/notifModel')
 
 
 async function sendNotification(newsfeed_title, category_name,newsfeed_image,newsfeed_id,deviceId) {
