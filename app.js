@@ -1,6 +1,10 @@
-const express = require('express')
-const router = express()
+const express = require('express');
+const routers = express.Router();
 
-router.use('/user', require('./Routes/userroute'))
+// Use separate route files
 
-module.exports = router
+routers.use('/api', require("./routes/Categoryroute"));
+routers.use('/newsfeed', require("./routes/Newsfeedroute"));
+routers.use('/user', require("./routes/Userroute"));
+
+module.exports = routers;

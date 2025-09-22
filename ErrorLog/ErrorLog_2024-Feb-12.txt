@@ -1,0 +1,204 @@
+
+2024-02-12T11:13:02.655Z: undefined
+
+2024-02-12T11:13:02.896Z: undefined
+
+2024-02-12T11:16:58.627Z: undefined
+
+2024-02-12T11:16:58.994Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:16:58.995Z: undefined
+
+2024-02-12T11:24:28.101Z: undefined
+
+2024-02-12T11:24:28.154Z: undefined
+
+2024-02-12T11:24:28.295Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:24:28.296Z: undefined
+
+2024-02-12T11:24:28.299Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:24:28.300Z: undefined
+
+2024-02-12T11:25:26.643Z: undefined
+
+2024-02-12T11:25:26.697Z: undefined
+
+2024-02-12T11:25:26.844Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:25:26.847Z: undefined
+
+2024-02-12T11:25:27.013Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:25:27.018Z: undefined
+
+2024-02-12T11:37:18.716Z: undefined
+
+2024-02-12T11:37:18.771Z: undefined
+
+2024-02-12T11:37:18.774Z: undefined
+
+2024-02-12T11:37:18.777Z: undefined
+
+2024-02-12T11:37:18.925Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:37:18.926Z: undefined
+
+2024-02-12T11:37:18.928Z: undefined
+
+2024-02-12T11:37:18.927Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:37:18.930Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:37:18.931Z: undefined
+
+2024-02-12T11:37:19.086Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T11:37:19.087Z: undefined
+
+2024-02-12T12:05:52.960Z: undefined
+
+2024-02-12T12:05:53.976Z: AxiosError: Request failed with status code 400
+    at settle (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:1967:12)
+    at Unzip.handleStreamEnd (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3066:11)
+    at Unzip.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (C:\GT\INSHORTS\inshort\node_modules\axios\dist\node\axios.cjs:3877:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendToFcm (C:\GT\INSHORTS\inshort\controllers\notifController.js:75:35)
+    at async Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:46:30)
+
+2024-02-12T12:05:53.976Z: undefined
+
+2024-02-12T12:20:38.860Z: undefined
+
+2024-02-12T12:39:39.749Z: undefined
+
+2024-02-12T12:40:44.912Z: undefined
+
+2024-02-12T12:46:38.976Z: undefined
+
+2024-02-12T12:46:38.982Z: undefined
+
+2024-02-12T12:46:40.240Z: undefined
+
+2024-02-12T12:46:40.337Z: undefined
+
+2024-02-12T12:48:06.594Z: undefined
+
+2024-02-12T12:48:06.598Z: undefined
+
+2024-02-12T12:48:06.601Z: undefined
+
+2024-02-12T12:48:07.077Z: undefined
+
+2024-02-12T12:48:07.117Z: undefined
+
+2024-02-12T12:49:15.814Z: undefined
+
+2024-02-12T12:49:15.817Z: undefined
+
+2024-02-12T12:49:15.820Z: undefined
+
+2024-02-12T12:49:16.128Z: undefined
+
+2024-02-12T12:49:16.188Z: undefined
+
+2024-02-12T12:54:03.899Z: undefined
+
+2024-02-12T12:55:45.433Z: undefined
+
+2024-02-12T12:55:45.437Z: undefined
+
+2024-02-12T12:55:45.747Z: undefined
+
+2024-02-12T12:59:45.816Z: undefined
+
+2024-02-12T13:00:08.076Z: undefined
+
+2024-02-12T13:01:40.869Z: undefined
+
+2024-02-12T13:02:00.516Z: undefined

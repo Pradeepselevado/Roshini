@@ -1,0 +1,62 @@
+
+2024-02-14T04:14:19.705Z: undefined
+
+2024-02-14T04:14:19.966Z: undefined
+
+2024-02-14T04:16:30.510Z: undefined
+
+2024-02-14T06:00:53.979Z: undefined
+
+2024-02-14T06:00:54.992Z: undefined
+
+2024-02-14T06:06:03.950Z: undefined
+
+2024-02-14T06:06:03.954Z: undefined
+
+2024-02-14T06:06:04.341Z: undefined
+
+2024-02-14T06:06:04.373Z: ReferenceError: newsfeed_image is not defined
+    at Object.sendNotification (C:\GT\INSHORTS\inshort\controllers\notifController.js:50:73)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+2024-02-14T06:08:09.865Z: undefined
+
+2024-02-14T06:08:09.921Z: undefined
+
+2024-02-14T06:08:10.308Z: undefined
+
+2024-02-14T06:09:24.911Z: undefined
+
+2024-02-14T06:09:24.965Z: undefined
+
+2024-02-14T06:09:25.351Z: undefined
+
+2024-02-14T06:16:25.217Z: undefined
+
+2024-02-14T06:16:25.274Z: undefined
+
+2024-02-14T06:16:25.781Z: undefined
+
+2024-02-14T06:17:54.912Z: undefined
+
+2024-02-14T06:17:54.967Z: undefined
+
+2024-02-14T06:17:55.330Z: undefined
+
+2024-02-14T06:26:54.994Z: undefined
+
+2024-02-14T06:26:55.048Z: undefined
+
+2024-02-14T06:26:55.418Z: undefined
+
+2024-02-14T06:35:10.200Z: undefined
+
+2024-02-14T06:35:10.259Z: undefined
+
+2024-02-14T06:35:10.778Z: undefined
+
+2024-02-14T06:38:01.354Z: undefined
+
+2024-02-14T06:38:01.411Z: undefined
+
+2024-02-14T06:38:01.775Z: undefined
